@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Substitutions UseSpecialDotsProcessing="true">
+  <Joints>&amp;+-/~</Joints>
+  <JointExceptions>#$%&amp;+-/0123456789@^~</JointExceptions>
+  <CharsToReplaceWithSpace>	 "'(),:;&lt;&gt;[]`«»‘’‚‛“”„</CharsToReplaceWithSpace>
+</Substitutions>
